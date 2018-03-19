@@ -21,4 +21,4 @@ This are the raw attributes that are used for calculating how much damage an att
 
 ## Credits
 
-Credits: Alberto Barrada
+Credits: This dataset is a subset of Alberto Barrada's dataset
